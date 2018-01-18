@@ -1,5 +1,7 @@
 # Scala 初学指南
 
+> 本开源书 forked from [Scala 初学指南](https://github.com/lerencao/guides-to-scala-book)，作者为 [lerencao](https://github.com/lerencao)，欢迎大家 star 原作者的 [repo](https://github.com/lerencao/guides-to-scala-book)，以便获得最新更新，谢谢！
+
 ## 这本书是什么
 
 本书是 [The Neophyte's Guide to Scala](http://danielwestheide.com/scala/neophytes.html) 的中文翻译。
